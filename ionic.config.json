@@ -1,0 +1,7 @@
+{
+  "name": "SnackBar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
